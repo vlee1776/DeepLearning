@@ -11,6 +11,10 @@ Gradient Descent, Stochastic Gradient Descent, and Batch Gradient Descent applie
 
 Simple convolutional network for the mnist dataset 
 
+## HM5
+
+Bidirectional lstm for seq2seq
+
 ## Bonus1 
 
 Federated Averaging 
